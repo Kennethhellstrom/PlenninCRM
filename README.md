@@ -1,6 +1,6 @@
-# Clinic CRM
+# Plennin
 
-SaaS multi-tenant de CRM + WebChat para clínicas. Também é um projeto de estudo: o objetivo é praticar
+Plennin é um SaaS multi-tenant de CRM + WebChat para clínicas. Também é um projeto de estudo: o objetivo é praticar
 arquitetura, CI/CD, nuvem, mensageria e boas práticas como em um time de produto real.
 
 Documentação de produto: ver `docs/` (a proposta de negócio completa é mantida fora do repositório).
